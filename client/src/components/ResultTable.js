@@ -19,6 +19,10 @@ export default function ResultTable() {
                     <td>30</td>
                     <td>Passed</td>
                 </tr>
+                <tr className='table-body'>
+                    <td>attempts</td>
+                    <td>10</td>
+                </tr>
             </tbody>
         </table>
     </div>
